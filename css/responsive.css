@@ -2,5 +2,5 @@
   .wrapper { width: 90%; }
   #social { position: absolute;
   width: auto;
-  margin: 82px 4px;
+  margin: 82px 0 4px 0;
 }
